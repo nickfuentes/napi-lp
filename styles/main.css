@@ -1,4 +1,12 @@
-.imgStyle {
-  display: block;
-  transform: translate3d(-50%, 354px, 0px);
+.parallax-container {
+    height: 500px;
+  }
+
+.section {
+  padding: 50px;
+  text-align: center;
+}
+
+.btn {
+  background-color: salmon;
 }
